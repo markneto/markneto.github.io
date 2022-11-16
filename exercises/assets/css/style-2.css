@@ -1,4 +1,7 @@
 /*  ============= WEB BROWSER RESETS ============ */
+
+body { background-color: antiquewhite }
+
 * { margin: 0; padding: 0; border: none }
 *, *::before, *::after { box-sizing: border-box }
 html { height: 100%; font-size: 100%; font: inherit; vertical-align: baseline;
@@ -19,6 +22,7 @@ input, button, textarea, select { font: inherit }
 
 
 h1 {
+    color: brown;
     font-size: 72px;
     margin-bottom: 56px;
     text-align: center;
@@ -27,6 +31,7 @@ h1 {
 }
 
 h2 {
+    color: brown;
     font-size: 30px;
     margin-bottom: 64px;  
     font-family: sans-serif;
@@ -37,6 +42,7 @@ font-weight: normal;
 }
 
 h3 {
+    color: brown;
     font-size: 32px;
     margin-bottom: 4px;
     
